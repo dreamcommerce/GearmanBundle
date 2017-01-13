@@ -39,7 +39,7 @@
     },
     "target-dir": "Mmoreram/GearmanBundle",
     "autoload": {
-        "psr-0": { "Mmoreram\\GearmanBundle": "" }
+        "psr-4": { "Mmoreram\\GearmanBundle": "" }
     },
     "minimum-stability": "stable", 
     "extra": {
